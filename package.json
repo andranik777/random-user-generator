@@ -20,7 +20,7 @@
     "react-scripts": "4.0.3",
     "real-random-address": "^1.1.0",
     "web-vitals": "^1.0.1"
-  },
+  },"homepage": "https://andranik777.github.io/random-user-generator",
   "scripts": {
     "predeploy":"npm run build",
     "deploy":"gh-pages -d build",
