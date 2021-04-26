@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.js": "/random-user-generator/static/js/main.57ecc4b9.chunk.js",
+    "main.js.map": "/random-user-generator/static/js/main.57ecc4b9.chunk.js.map",
+    "runtime-main.js": "/random-user-generator/static/js/runtime-main.08876012.js",
+    "runtime-main.js.map": "/random-user-generator/static/js/runtime-main.08876012.js.map",
+    "static/css/2.150d169a.chunk.css": "/random-user-generator/static/css/2.150d169a.chunk.css",
+    "static/js/2.ca46aaf7.chunk.js": "/random-user-generator/static/js/2.ca46aaf7.chunk.js",
+    "static/js/2.ca46aaf7.chunk.js.map": "/random-user-generator/static/js/2.ca46aaf7.chunk.js.map",
+    "index.html": "/random-user-generator/index.html",
+    "static/css/2.150d169a.chunk.css.map": "/random-user-generator/static/css/2.150d169a.chunk.css.map",
+    "static/js/2.ca46aaf7.chunk.js.LICENSE.txt": "/random-user-generator/static/js/2.ca46aaf7.chunk.js.LICENSE.txt",
+    "static/media/mail.2bcff85a.svg": "/random-user-generator/static/media/mail.2bcff85a.svg",
+    "static/media/user.78b64d9f.svg": "/random-user-generator/static/media/user.78b64d9f.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.08876012.js",
+    "static/css/2.150d169a.chunk.css",
+    "static/js/2.ca46aaf7.chunk.js",
+    "static/js/main.57ecc4b9.chunk.js"
+  ]
+}
